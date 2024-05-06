@@ -1,0 +1,11 @@
+{
+  "name": "MyReactNativeApp",
+  "displayName": "MyReactNativeApp",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "dc20d03d-c7ab-4549-8cac-dd2bbd2610b8"
+      }
+    }
+  }
+}
